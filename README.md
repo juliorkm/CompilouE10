@@ -2,18 +2,18 @@
 Jogo criado em 2016 para o Processo Seletivo da GDP.
 
 <<Grupo 2>> - Diretor: Danilo Vettorazzi
-\> Roteirista:
+\> Roteirista:  
 Lucas Figueiredo
 
-\> Programadores:
+\> Programadores:  
 Silvia Pimpão  
 Júlio Rama
 
-\> Artista: 
+\> Artista:  
 Carolina Hiromi
 
-\> Game Designer:
+\> Game Designer:  
 Lucas Cordeiro
 
-\> Músico:
+\> Músico:  
 Alan dos Santos
