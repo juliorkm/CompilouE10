@@ -6,7 +6,7 @@ Jogo criado em 2016 para o Processo Seletivo da GDP.
 Lucas Figueiredo
 
 \> Programadores:
-Silvia Pimpão 
+Silvia Pimpão  
 Júlio Rama
 
 \> Artista: 
